@@ -1,0 +1,13 @@
+Title size and color of heading "Boo the dog Fan Page" have to be fixed to match with the working code
+Boo's image is missing
+Wiki page link is bringing it back to current page, should go to wiki
+grow/shrink buttons do nothing
+Random Boo Fact button does nothing on click
+-- AFter correcting the above, on click all facts dumped in one go - need to separate
+Orange, pink and Green Color buttons bring no color on text "Boo Rules!"
+-- On Fixing this, correct colors are not displayed... 
+List of Boo's Favorite Things - Dressing Up Eating Grass Sleeping Swimming Hiking should be listed in new next line and numbered
+Grow/Shrink feature should be where random fact is, currently
+Random fact feature should be where the color feature is currently
+Color feature should be where the list of favorite things is, now
+List of favorite things should be in place where the grow/shrink feature is now
