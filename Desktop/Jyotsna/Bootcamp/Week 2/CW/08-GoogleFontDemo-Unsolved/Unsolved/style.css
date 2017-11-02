@@ -1,0 +1,15 @@
+/**
+ * Google Fonts Demo
+ **/
+/* Add in the Google Fonts of your choice */
+
+ /*Process - Add google fonts from google website, copy+paste the link ref given there into html-template file and add 
+ the fonts to the classes mentioned in the html file */
+.thought2
+{
+	font-family: 'Lobster', cursive;
+}
+
+.thought1{
+	font-family: 'Quintessential', cursive;
+}
